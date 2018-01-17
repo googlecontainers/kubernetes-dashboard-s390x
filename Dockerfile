@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/kubernetes-dashboard-s390x:v1.8.1
+FROM gcr.io/google_containers/kubernetes-dashboard-s390x:v1.8.2
